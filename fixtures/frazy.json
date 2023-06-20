@@ -1,0 +1,28 @@
+[
+    {
+        "fraza":"Wiki"
+    },
+    {
+        "fraza":"Wikipedia" ,
+        "query": "wikipedia"
+    },
+    {
+        "fraza":"politechnika bialostocka",
+        "query": "politechnika+bialostocka"
+    },
+    {
+        "fraza":"dramatyczny" ,
+        "query": "dramatyczny"
+    },
+
+    {
+        "fraza":"email" ,
+        "query": "A confirmation email is on the way."
+
+    },
+        {
+            "fraza":"modernizacja",
+            "query":"modernizacja"
+
+        }
+]
